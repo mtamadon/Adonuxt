@@ -1,15 +1,13 @@
-<p align="center"><img width="400" src="https://raw.githubusercontent.com/nuxt/adonuxt/master/resources/assets/img/logo.png"></p>
-
 # AdoNuxt
 
-> [AdonisJS](http://adonisjs.com/) + [Nuxt.js](https://nuxtjs.org) = :fire:
+Adonis + Nuxt
 
 ## Installation
 
 This is a project template for [adonis-cli](https://github.com/adonisjs/adonis-cli).
 
 ```bash
-adonis new --blueprint nuxt-community/adonuxt-template <project-name>
+adonis new --blueprint mtamadon/Adonuxt <project-name>
 ```
 
 > Make sure to use a version of adonis-cli >= 2.1.8 (`adonis --version`).
@@ -30,7 +28,6 @@ See [AdonisJS features](http://adonisjs.com/docs/3.2/overview) and [Nuxt.js feat
 ## AdonisJS Changes
 
 - No more `public` directory, use `resources/static/` instead.
-- No more `resources/views` directory.
 
 ## Nuxt.js Changes
 
@@ -54,3 +51,5 @@ See [AdonisJS features](http://adonisjs.com/docs/3.2/overview) and [Nuxt.js feat
 - [AdonisJS license](https://github.com/adonisjs/adonis-framework/blob/develop/LICENSE.txt)
 - [NuxtJS license](https://github.com/nuxt/nuxt.js/blob/master/LICENSE.md)
 - [VueJS license](https://github.com/vuejs/vue/blob/master/LICENSE)
+
+Forked From https://github.com/nuxt-community/adonuxt-template 
